@@ -24,7 +24,9 @@ First, perform manual tests in Postman. The steps for conducting the tests are a
 
 3.Compare the status code and response body of the incoming response with the scenario you have.   
 
-![JsonPlaceHolderGetResponse](https://github.com/cylnesra/API-test-automation-and-manual-testing/assets/87074889/d5713c0c-8b35-4c75-a5df-a162d4d6890a)
+![JsonPlaceHolderGetResponse](https://github.com/cylnesra/API-test-automation-and-manual-testing/assets/87074889/d5713c0c-8b35-4c75-a5df-a162d4d6890a)                
+
+4.Finally, after receiving a successful response, save this test in Postman by clicking on the 'Save' option.
 
 
 
